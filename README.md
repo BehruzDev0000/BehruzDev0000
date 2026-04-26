@@ -102,7 +102,10 @@ GitHub
 https://github.com/BehruzDev0000
 
 LinkedIn
-https://linkedin.com/in/behruzdev
+https://linkedin.com/in/behruzdeveloper
+
+Instagram
+https://instagram.com/behruzdeveloper
 
 Telegram
 https://t.me/behruzdeveloper
