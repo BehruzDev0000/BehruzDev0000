@@ -135,10 +135,24 @@ Mid-sized domain with non-trivial relations: patients ↔ appointments ↔ docto
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BehruzDev0000/BehruzDev0000/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BehruzDev0000&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</p>
+
+---
+
+## 📈 Activity Summary
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BehruzDev0000&theme=tokyonight" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BehruzDev0000&theme=tokyonight&utcOffset=5" />
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BehruzDev0000&theme=tokyonight&exclude=html,css,scss" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BehruzDev0000&theme=tokyonight" />
 </p>
 
 ---
